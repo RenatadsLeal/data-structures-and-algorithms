@@ -9,7 +9,8 @@ public class Main {
 //        BubbleSort.sort(intArray);
 //        SelectionSort.sort(intArray);
 //        InsertionSort.sort(intArray);
-        ShellSort.sort(intArray);
+//        ShellSort.sort(intArray);
+        MergeSort.sort(intArray);
 
     }
 }
