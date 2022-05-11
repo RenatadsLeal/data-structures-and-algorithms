@@ -10,7 +10,8 @@ public class Main {
 //        SelectionSort.sort(intArray);
 //        InsertionSort.sort(intArray);
 //        ShellSort.sort(intArray);
-        MergeSort.sort(intArray);
+//        MergeSort.sort(intArray);
+        QuickSort.sort(intArray);
 
     }
 }
